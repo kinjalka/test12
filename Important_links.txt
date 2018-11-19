@@ -1,4 +1,4 @@
-generate plugin using boilerplate : https://wppb.me/
+ generate plugin using boilerplate : https://wppb.me/
 
 boilerplate documentation links:
 https://www.sitepoint.com/wordpress-plugin-boilerplate/ 
