@@ -1,0 +1,73 @@
+generate plugin using boilerplate : https://wppb.me/
+
+boilerplate documentation links:
+https://www.sitepoint.com/wordpress-plugin-boilerplate/ 
+https://www.sitepoint.com/wordpress-plugin-boilerplate-part-2-developing-a-plugin/  
+
+photoshp :  https://www.photopea.com/
+
+lightslider: http://sachinchoolur.github.io/lightslider/examples.html
+
+plugin generator :  https://wppb.me/
+
+membership site : http://www.wpbeginner.com/wp-tutorials/ultimate-guide-to-creating-a-wordpress-membership-site/ 
+
+multiple select dropdown: https://select2.org/getting-started/installation
+
+push notifiation video : https://www.youtube.com/watch?v=HxXlVZlb10Y
+
+fetch online users: https://premium.wpmudev.org/forums/topic/wp-function-to-show-current-online-users
+
+heartbeat api = https://pippinsplugins.com/using-the-wordpress-heartbeat-api/
+heartbeat api interval = https://code.tutsplus.com/tutorials/the-heartbeat-api-changing-the-pulse--wp-32462
+
+Cookie : 
+	1. https://www.sitepoint.com/how-to-set-get-and-delete-cookies-in-wordpress/
+	2. https://www.sitepoint.com/how-to-set-get-and-delete-cookies-in-wordpress/
+	
+Hooks:
+	https://adambrown.info/p/wp_hooks/hook
+
+Buddypress : https://codex.buddypress.org/developer/buddypress-hooks-actions-filters/
+
+multisite from localhost : https://themeisle.com/blog/install-wordpress-multisite-on-local-host/
+
+image to text converter : https://www.onlineocr.net/
+
+yoast video :  https://www.youtube.com/watch?v=ppEqly6GFsA
+
+acf link : https://www.advancedcustomfields.com/resources/
+
+custom field in cart :  https://appcoder.link/how-to-update-shipping-cost-in-cart-dynamically-based-on-a-custom-field-in-woocommerce/
+
+Training : \\c100-68\Training\PHP Training
+
+checkout page custom fields: http://www.portmanteaudesigns.com/blog/2015/02/04/woocommerce-custom-checkout-fields-email-backend/
+
+if (in_array("Glenn", $people))
+
+Programatically create an order : https://www.google.co.in/search?source=hp&ei=19IpW5GuA8XUvgTn1KWYCw&q=woocommerce+add+order+programmatically&oq=woocommerce+programmatically+add+order&gs_l=psy-ab.3.0.0i22i30k1.765.5812309.0.5814426.30.30.0.0.0.0.794.3593.0j10j4-2j1j1.14.0....0...1.1.64.psy-ab..16.14.3589...0j0i131k1j0i10k1j0i13k1j0i13i10i30k1j0i22i10i30k1j0i8i13i30k1.0.fNA5KTO1I5U
+
+add data into cart programatically :        
+- https://iconicwp.com/blog/add-custom-cart-item-data-woocommerce/
+- https://stackoverflow.com/questions/48643631/show-multiple-product-custom-fields-values-in-cart-on-woocommerce
+
+pagination :
+div = http://st3ph.github.io/jquery.easyPaginate/
+table = https://www.jqueryscript.net/table/Lightweight-jQuery-Client-side-Pagination-Plugin-paginate-js.html
+
+
+add textbox using jquery:
+http://www.mkyong.com/jquery/how-to-add-remove-textbox-dynamically-with-jquery/
+
+wp_list_table
+https://github.com/Veraxus/wp-list-table-example/blob/master/includes/class-tt-example-list-table.php
+
+searching:https://makitweb.com/jquery-search-text-in-the-element-with-contains-selector/
+
+accordion: https://www.taniarascia.com/simple-jquery-examples-with-code-and-demos/
+
+jquery modal : http://jquerymodal.com/
+
+
+create ajax loader : http://www.ajaxload.info/
